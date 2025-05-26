@@ -6,5 +6,8 @@ Step 2 - Type the target Ip Address and the Use the Command  (nmap -T4 -A -v 192
 Step 3 - Check the Ports and Hosts where i found some TCP Open Ports.
 ![Open Port TCP](https://github.com/user-attachments/assets/93c76302-a712-42d4-9153-633155703712)
 Step 4 - Captured the Open Ports and IP address Found.
+Saved file of Scaned Open Port from NMAP 
+[Uploading Openport.txt…]()
+
 
 Potential Risks from Open Ports : Open ports on a network or device can create security vulnerabilities, potentially allowing unauthorized access and posing risks like data breaches, malware distribution, and denial-of-service attacks. These risks arise because open ports act as entry points, and attackers can exploit misconfigured services or vulnerabilities on these ports to compromise systems. 
